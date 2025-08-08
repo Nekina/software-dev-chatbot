@@ -34,8 +34,4 @@ An interactive, server-rendered chatbot built with Node.js and the OpenAI API—
 4. Start the server:
    ```bash
    npm start
-   ```
-   or, if a development script is available (e.g., with live reload):
-   ```bash
-   npm run dev
 5. Open your browser and visit http://localhost:3000 to begin chatting with the bot.
